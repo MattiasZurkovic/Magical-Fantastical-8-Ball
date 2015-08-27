@@ -4,7 +4,10 @@ import sys
 from sys import stdout
 
 # List of responses
-response = ['hi', 'bue']
+response = ["Yes, most definitely!", "The chances are high!", "Not likely!", "May the odds be ever in your favor.",
+                        "You got no shot, kid.", "Try it out and see!", "23% of working", "99.9% success rate",
+                        "Congratulations, yes!", "Ask a probably question," "Ask again later", "Better not tell you now",
+           "Cannot predict now", "Concentrate and ask again", "Don't count on it"]
 
 def __init__():
     ask()
